@@ -1,4 +1,4 @@
-"""his module handles all access point the operations."""
+"""Handles all reconnaissance operations."""
 
 from __future__ import (absolute_import, division, print_function)
 from threading import Thread
